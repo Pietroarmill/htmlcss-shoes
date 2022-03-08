@@ -20,13 +20,13 @@ header{
     width: 100%;
 }
 
-nav{
+header nav{
     position: absolute;
     right: 20px;   
     top: 40px;
 }
 
-nav li{
+header nav li{
     display: inline-block;
     margin-left: 30px;
     width: 50px;
@@ -35,7 +35,7 @@ nav li{
     border-radius: 50%;
 }
 
-nav a{
+header nav a{
     font-weight: 900;
     text-decoration: none;
     color: black;
